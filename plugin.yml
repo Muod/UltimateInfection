@@ -1,0 +1,10 @@
+name: UltimateInfection
+main: me.muod.UI.Main
+version: B 1.0.5
+authors: [Muod]
+
+commands:
+  ultimateinfection:
+    description: UltimateInfection Commands
+    usage: /ultimateinfection <command> [args]
+    aliases: [ui]
